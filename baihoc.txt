@@ -31,3 +31,6 @@ https://haodev.wordpress.com/
 1 blog của bạn sn 98 parttime cty a
 và được các a đánh giá rất cao nhé mn
 như bạn này là được mời về làm luôn ấy nhé
+
+---------------------------
+lenh ls -ls de xem git cua minh cai o thu muc cho nao, ta muon thuc hien lenh git thi ta phai chay o folder chua file .git

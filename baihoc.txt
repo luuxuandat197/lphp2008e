@@ -1,0 +1,33 @@
+Refs:
+- Git magic: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/vi/ch01.html
+- https://viblo.asia/p/toi-da-bat-dau-voi-git-nhu-the-nao-eW65G73L5DO
+- https://viblo.asia/p/git-hoat-dong-nhu-the-nao-naQZRwP0lvx
+
+Nếu dùng window tải GIT BASH về, vào thư mục muốn chứa code, bấm chuột phải chọn GIT BASH HERE để mở git bash, sau đó làm theo các bước bên dưới:
+
+Tạo repository trên https://github.com sau đó clone về
+git clone <link>
+
+Trước khi làm bài:
+// kéo code mới nhất về
+git pull origin master
+// tạo nhánh mới lesson4
+git checkout -b lesson4
+Sau khi làm bài xong
+git status
+git add .
+git commit -m "Add new index file"
+git push origin lesson4
+Sau đó lên https://github.com/ tạo pull request (PR) từ nhánh lesson4 vào master, sau đó copy link PR update vào file googlesheet để nộp bài tập
+
+Nếu gặp lỗi
+git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+thì chạy 2 câu lệnh dưới (nhớ thay tên và email nhé)
+git config --global user.email "giangnv91@gmail.com"
+git config --global user.name "Nguyen Van Giang"
+
+https://haodev.wordpress.com/
+1 blog của bạn sn 98 parttime cty a
+và được các a đánh giá rất cao nhé mn
+như bạn này là được mời về làm luôn ấy nhé

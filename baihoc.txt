@@ -34,3 +34,22 @@ như bạn này là được mời về làm luôn ấy nhé
 
 ---------------------------
 lenh ls -ls de xem git cua minh cai o thu muc cho nao, ta muon thuc hien lenh git thi ta phai chay o folder chua file .git
+
+------
+origin: remote repository cua git server
+master hoac main la ten branch mac dinh cua origin
+
+--> chay lenh git remoter -v -->
+
+- them moi, doi ten, ... update url, -> tham khao bang lenh git -help
+---------------
+-------khai niem branch----------
+mac dinh se co 1 nhanh (branch) mac dinh la master (hoac main)
+- ktra dang o branh nao: git branch
+- doi ten branch : git branch -m ten_cu ten_moi
+- ds branch : git branch
+- tao moi: git branch br_moi
+- xoa: git branch -d ten_br_muon_xoa
+- chuyen branch: git checkout branch_muon_chuyen
+
+--> sau khi tao branch tren local bang cac lenh tren, ta sd lenh push de cap nhat va dong bo vs server

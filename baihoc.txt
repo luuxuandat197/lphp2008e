@@ -34,3 +34,6 @@ như bạn này là được mời về làm luôn ấy nhé
 
 ---------------------------
 lenh ls -ls de xem git cua minh cai o thu muc cho nao, ta muon thuc hien lenh git thi ta phai chay o folder chua file .git
+
+------------------------
+git branch -a : xem branch tren local va server

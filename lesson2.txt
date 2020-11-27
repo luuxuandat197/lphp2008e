@@ -6,5 +6,5 @@ Pull Request example
 4. Create new file
 5. Add file
 6. Commit
-7. Push
+7. git push <remote> <branch>
 8. Create Pull Request

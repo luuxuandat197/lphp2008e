@@ -10,8 +10,8 @@ echo '<pre>';
 ?>
 
 ---------- Cac buoc lam viec voi git ---------
--- fork
--- clone
+-- fork : truy cap url git projec, nhan nut fork tren web de tao ban remote thu 2
+-- clone : remote vua sao chep duoc
 -- checkout -b lesson2
 -- viet code
 -- git status
@@ -20,3 +20,7 @@ echo '<pre>';
 -- git push <origin_name> <branch_name>
 -- git log
 -- git log --oneline -5
+-- git push origin -u remote_name branch_muon_luu_nen_remote
+
+<!------------------------------------------>
+

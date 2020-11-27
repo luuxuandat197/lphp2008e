@@ -1,1 +1,5 @@
-1. fork
+Các bước làm việc với pull requets
++ fork
++ clone
++ push
++ pull request

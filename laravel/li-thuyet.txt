@@ -1,0 +1,7 @@
+- cai composer
+- tao project
+    + hoac: composer global require laravel/installer
+    + hoac : composer create-project --prefer-dist laravel/laravel blog
+- khoi chay
+    + cd : di chuyen toi thu muc public cua project
+    + tai thu muc public tren, chay command: php -S localhost:8080

@@ -7,6 +7,10 @@
 </head>
 <body>
     <h1>namename</h1>
+    <?php
+    chuviethoang
+    php2008
+    ?>
 </body>
 </html>
 

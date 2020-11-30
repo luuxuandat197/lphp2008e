@@ -1,4 +1,5 @@
 <?php
-Luu xuan Dat
-lphp2008e
+$name = 'Luu xuan Dat';
+$class = 'lphp2008e';
+
 ?>
